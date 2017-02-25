@@ -1,0 +1,10 @@
+1.dignidad-http://dle.rae.es/?id=DlX5ZXZ
+2.pájaro-http://dle.rae.es/?id=RTabDql
+3.estudiante-http://dle.rae.es/?id=H1mR3XL
+4.democracia-http://dle.rae.es/?id=C9NX1Wr
+5.vida-http://dle.rae.es/?id=blw7uSa
+6.enfermedad-http://dle.rae.es/?id=FHA3D3L
+7.carretera-http://dle.rae.es/?id=7gxxR8n
+8.felicidad-http://dle.rae.es/?id=Hj4JtKk
+9.ventana-http://dle.rae.es/?id=bY8XdFW
+10.desierto-http://dle.rae.es/?id=D5lWAvW
